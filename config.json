@@ -1,0 +1,10 @@
+{
+  "title": "FP",
+  "host": "0.0.0.0",
+  "pathname": "/",
+  "minifyScripts": true,
+  "randomizeIdentifiers": true,
+  "production": true,
+  "disguiseFiles": true,
+  "usingSEO": false
+}
