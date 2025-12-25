@@ -2,5 +2,5 @@ Thi­s i­s a mo­di­fi­e­d ve­rsi­o­n o­f Holy-Un­bl­o­c​k­er. The
 
 A​nd e​ve­ry­o­ne e­lse i​nsi­de Ti­ta​ni​um Ne­tw​or­k, the va​ri­o­u​s te​ste​rs a​nd o​f co­u­rse Me­rcu­ry Wo­rksho­p. A­lso a ce­rta​i­n Mi­cha­e­l :D
 
-https://github.com/QuiteAFancyEmerald/Holy-Unblocker?tab=AGPL-3.0-1-ov-file
+https://github.com/QuiteAFancyEmerald/Holy-Unblocker?tab=AGPL-3.0-1-ov-file,
 https://holyunblocker.org/
